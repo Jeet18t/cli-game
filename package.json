@@ -1,0 +1,22 @@
+{
+  "name": "jbc-quiz-game",
+  "version": "1.1.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "bin": "./index.js",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "inquirer": "^9.1.5",
+    "gradient-string": "^2.0.1",
+    "chalk-animation": "^2.0.1",
+    "figlet": "^1.5.2",
+    "nanospinner": "1.1.0"
+  }
+}
